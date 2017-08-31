@@ -1,0 +1,8 @@
+Labels:
+bag
+fashion accessory
+handbag
+product
+product
+coin purse
+brand
